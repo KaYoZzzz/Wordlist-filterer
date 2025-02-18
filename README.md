@@ -1,5 +1,5 @@
 # Wordlist-filterer
-a wordlist filterer developed with java.
+A wordlist filterer developed with java.
 This wordlist filterer application in Java is a useful tool for creating a new wordlist from an existing one by applying string length criteria. This application allows you to: 
 -Select a wordlist to filter by choosing the file from a dialog box. 
 -Select a destination folder for the newly generated wordlist, choosing the folder from a dialog box. 
